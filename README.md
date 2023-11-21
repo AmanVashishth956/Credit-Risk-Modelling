@@ -1,6 +1,6 @@
 # Credit-Risk-Modelling
 
-The primary objective of this article is to construct a model for predicting the probability of an individual defaulting on a loan. To achieve this goal, we will proceed through the following sequential steps:
+The primary objective is to construct a model for predicting the probability of an individual defaulting on a loan. To achieve this goal, we will proceed through the following sequential steps:
 
 1. **Data Preprocessing and Preparation:**
    In the initial phase, our focus will be on preparing and cleaning the dataset to ensure its readiness for analysis. This involves addressing missing values, handling outliers, and ensuring data consistency. Additionally, we will apply relevant data transformations and scaling techniques to enhance the overall quality of the dataset.
